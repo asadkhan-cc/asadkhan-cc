@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @asadkhan-cc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Asad Ali Khan 
+- 👀 I’m interested in MERN stack
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on WWO
+- 📫 How to reach me at wa.me/923080027899
 
 <!---
 asadkhan-cc/asadkhan-cc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
