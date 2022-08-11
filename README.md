@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Asad Ali Khan 
 - 👀 I’m interested in MERN stack
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on WWO
+- 💞️ I’m looking to collaborate on ImageNet
 - 📫 How to reach me at https://wa.me/923080027899/
 
 <!---
